@@ -1,4 +1,4 @@
-# Dockerized static files 
+# Dockerized static files server
 <hr>
 
 ## Simplest way to run a static file server
